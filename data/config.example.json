@@ -1,0 +1,29 @@
+{
+    "client": {
+        "name": "Max Mustermann",
+        "phone": "+49 151 00000000",
+        "handover_date": "2026-01-01"
+    },
+    "links": {
+        "website": "https://example.com/",
+        "facebook": "",
+        "instagram": "",
+        "google": "",
+        "tiktok": "",
+        "youtube": "",
+        "linkedin": "",
+        "x": "",
+        "whatsapp": ""
+    },
+    "account": {
+        "username": "admin",
+        "password_hash": "",
+        "password_changed_at": ""
+    },
+    "prefs": {
+        "email_notifications": true,
+        "auto_reports": true,
+        "ai_recommendations": true
+    },
+    "created_at": ""
+}
